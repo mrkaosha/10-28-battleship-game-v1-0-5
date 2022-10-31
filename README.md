@@ -1,6 +1,4 @@
 
-> Open this page at [https://mrkaosha.github.io/10-28-battleship-game-v1-0-5/](https://mrkaosha.github.io/10-28-battleship-game-v1-0-5/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
